@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: blanchedalmond;
+}
+
+#red {
+    background-color: tomato;
+    text-align: right;
+}
+
+.green {
+    background-color: mediumseagreen;
+    text-align: center;
+}
+
+h1 {
+    background-color: rebeccapurple;
+    color: whitesmoke;
+    width: 33%;
+    display: inline-block;
+}
+
+.container {
+    width: 1000px;
+    margin: 0 auto;
+    /* outline: 1px dotted crimson; */
+}
+
+.sub-header {
+    background-color: #0ff;
+}
+
+.center-that {
+    text-align: center;
+}
+
+p {
+    background-color: violet;
+    width: 45%;
+    display: inline-block;
+    padding: 20px;
+    box-sizing: border-box;
+    border: 10px dotted darkgoldenrod;
+    margin: 10px;
+}
+
+ul li {
+    /* display: inline; */
+    margin-left: 25px;
+}
